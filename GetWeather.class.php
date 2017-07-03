@@ -6,7 +6,7 @@
  * 时间：2017-07-03
  */
 
-class getWeather {
+class GetWeather {
 
 
     //获取天气数据
